@@ -1,0 +1,5 @@
+streamlit
+txtai
+beir
+ollama
+sentence-transformers
