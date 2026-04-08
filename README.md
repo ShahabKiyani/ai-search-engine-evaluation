@@ -10,12 +10,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-from beir import util
-util.download_and_unzip("https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/nq.zip", "datasets")
+run this in terminal:
+1.) python download_data.py
 
-run:
-python build_nq_index.py
+2.)python build_nq_index.py
 
 
-run the app:
+finally, run the app using this command:
 streamlit run main2_streamlit.py
