@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 
 run this in terminal:
+
 1.) python download_data.py
 
 2.)python build_nq_index.py
