@@ -6,15 +6,15 @@ cd ai-search-engine-evaluation
 python3 -m venv venv
 source venv/bin/activate
 
-# 3. Install dependencies (run in terminal after you see (venv) in terminal bar)
-pip install -r requirements.txt
 
 
-run this in terminal:
+Now Install dependencies (run in terminal after you see (venv) in terminal bar)
 
-1.) python download_data.py
+1.)pip install -r requirements.txt
 
-2.)python build_nq_index.py
+2.) python download_data.py
+
+3.)python build_nq_index.py
 
 
 finally, run the app using this command:
