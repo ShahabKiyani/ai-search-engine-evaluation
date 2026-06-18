@@ -228,18 +228,8 @@ Potential extensions include:
 
 ## Research Materials
 
-To include the full academic work in this repository, add the thesis documents under a `docs` directory:
-
-```text
-docs/
-├── final-honors-thesis.pdf
-└── honors-thesis-defense.pdf
-```
-
-Then link them here:
-
-* [Read the final thesis paper](docs/final-honors-thesis.pdf)
-* [View the honors thesis defense](docs/honors-thesis-defense.pdf)
+* [Read the final thesis paper](docs/Thesis-Paper-Shahab.pdf)
+* [View the honors thesis defense](docs/Thesis-Defense.pdf)
 
 ## Authors
 
