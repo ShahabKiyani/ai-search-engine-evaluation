@@ -1,4 +1,4 @@
-# AI Search Engine Evaluation
+# Honors Thesis: Comparing Information Retrieval in AI-Powered and Traditional Search Systems
 
 A research-driven semantic search engine built to evaluate how modern AI-powered retrieval compares with traditional information retrieval systems.
 
