@@ -33,9 +33,9 @@ The broader thesis examined this question through two complementary perspectives
 * Query normalization for matching user input to official BEIR queries
 * Benchmark evaluation using:
 
-  * Precision@5, @10, and @20
-  * Recall@5, @10, and @20
-  * F1@5, @10, and @20
+  * Precision@5
+  * Recall@5
+  * F1@5
   * First relevant document rank
 * Persistent embedding storage to separate expensive offline indexing from online retrieval
 
@@ -228,7 +228,8 @@ Potential extensions include:
 
 ## Research Materials
 
-* [Read the final thesis paper](docs/Thesis-Paper-Shahab.pdf)
+* [Read Shahab's final thesis paper](docs/Thesis-Paper-Shahab.pdf)
+* [Read Sarang's final thesis paper](docs/Thesis-Paper-Sarang.pdf)
 * [View the honors thesis defense](docs/Thesis-Defense.pdf)
 
 ## Authors
