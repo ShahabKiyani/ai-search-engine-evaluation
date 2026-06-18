@@ -4,6 +4,8 @@ A research-driven semantic search engine built to evaluate how modern AI-powered
 
 This project was developed as part of the honors thesis **“Comparing Information Retrieval in AI-Powered and Traditional Search Systems”** by Shahab Kiyani and Sarang Kale.
 
+![AI Search Engine interface](assets/search-engine-demo.png)
+
 ## Overview
 
 Search is shifting from retrieving ranked documents to generating direct answers.
